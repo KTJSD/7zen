@@ -1,0 +1,19 @@
+# Ignore .env file which contains sensitive data
+.env
+
+# Ignore the 7zen directory
+7zen/
+
+# Node.js modules directory
+node_modules/
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
